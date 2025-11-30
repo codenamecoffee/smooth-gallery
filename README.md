@@ -29,7 +29,7 @@ SmoothGallery es una galería de imágenes desarrollada a medida para demostrar 
 
 ## 🌐 Live Demo / Demostración en línea
 
-👉 [Link here / aquí](https://codenamecoffee.github.io/SmoothGallery)
+👉 [Link here / aquí](https://codenamecoffee.github.io/smooth-gallery/)
 
 <br>
 
